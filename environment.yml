@@ -1,4 +1,4 @@
-name: homework-5-git-basics
+name: homework-5
 channels:
   - conda-forge
   - defaults

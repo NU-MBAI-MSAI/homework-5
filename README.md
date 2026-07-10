@@ -17,7 +17,7 @@ Problem 2
 ---
 1. In the `problem2` module, create a function named `date_format` that takes one argument, a string, that is
    in the format `MM/DD/YYYY`.
-2. The function should the date formatted as `YYYY-MM-DD`.
-3. Uncomment the import in `test_problem1.py`, uncomment the test bodies, and delete the `pass` keyword.
+2. The function should return the date formatted as `YYYY-MM-DD`.
+3. Uncomment the import in `test_problem2.py`, uncomment the test bodies, and delete the `pass` keyword.
 4. Run the tests and if they pass, commit and push the code to GitHub.
 5. Verify that the tests pass under the Actions tab in GitHub.
